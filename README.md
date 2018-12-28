@@ -1,3 +1,5 @@
+安装 gem install docker-sync
+
 # nest
 
 nest 是一个用 Docker 搭建的本地 PHP 应用开发与运行环境。
